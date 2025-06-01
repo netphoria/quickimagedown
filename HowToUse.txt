@@ -2,6 +2,6 @@ Open Chrome and go to chrome://extensions/.
 
 Enable Developer Mode (top right).
 
-Click "Load unpacked" and select the folder you just made.
+Click "Load unpacked" and select the folder you just downloaded.
 
 Now, right-click on any image in the browser — you'll see "Download Image" in the menu.
