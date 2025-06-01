@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Image Downloader",
+  "version": "1.0",
+  "description": "Right-click to download any image directly to Downloads.",
+  "permissions": ["downloads", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
